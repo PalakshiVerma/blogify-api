@@ -1,0 +1,1 @@
+console.log("Blogify API is running...");
